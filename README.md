@@ -1,4 +1,4 @@
-📌 Todo App
+📌 Todo App: 
 A simple & minimalistic Todo app built with React & Vite. Stay organized, stay productive!
 
 🛠️ Tech Stack
