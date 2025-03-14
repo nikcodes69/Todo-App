@@ -1,12 +1,41 @@
-# React + Vite
+📌 Todo App
+A simple & minimalistic Todo app built with React & Vite. Stay organized, stay productive!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ Tech Stack
+- React (Frontend)
+- Vite (Project Setup)
+- CSS (Styling)
+- Git & GitHub (Version Control)
 
-Currently, two official plugins are available:
+🚀 Features
+✅ Task Management: Add, edit, delete, and mark tasks as complete.
+✅ Smart Filtering: View tasks by All, Open, or Completed.
+✅ Data Persistence with Local Storage (Your tasks remain saved even after page refresh)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📚 What I Learned
+By building this app, I have gained hands-on experience with:
+🔹 React Hooks (useState, useEffect)
+🔹 State Management (useContext for managing tasks efficiently)
+🔹 Local Storage (Data persistence)
 
-## Expanding the ESLint configuration
+🚦 Running the Project
+Follow these steps to run the project locally:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the Repository to your local machine
+   git clone https://github.com/nikcodes69/Todo-App.git
+   cd Todo-App
+
+2. Install Dependencies
+   npm install
+
+3. Run the App
+   npm run dev
+
+4. Open http://localhost:5173 (or the address shown in your console) in your web browser to view the app.
+
+🍿 Video
+
+https://github.com/user-attachments/assets/3049525e-dc37-493c-884a-7ae4fe4e186c
+
+
+
