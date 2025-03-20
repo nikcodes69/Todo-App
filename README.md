@@ -35,7 +35,9 @@ Follow these steps to run the project locally:
 
 🍿 Video
 
-https://github.com/user-attachments/assets/3049525e-dc37-493c-884a-7ae4fe4e186c
+https://github.com/user-attachments/assets/33fcaad0-a576-4ba8-834b-837e03379c3f
+
+
 
 
 
